@@ -10,4 +10,6 @@ In progress
 
 Репозиторій складається з трьох частин:
 
-1. 
+1. Bachelor Courses -- складається з дескриптивної статистики багатовимірних даних (Descriptive Statistics), параметричного оцінювання параметрів класичними методами (Computer Statistics), регресійного аналізу (Regression Analysis, Asymptotical Statistics), класифікації на основі логістичної регресії та асимптотчних методів у статистиці (Asymptotical Statistics).
+2. Master Courses -- 
+3. Additional Stuff -- 
